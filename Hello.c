@@ -3,6 +3,6 @@
 void main ()
 {
 clrscr();
-printf("hello world");
+printf("not hello world");
 getch();
 }
